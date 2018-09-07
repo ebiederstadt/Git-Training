@@ -1,3 +1,3 @@
-# Hello-world
+# Git (and Github) Training
 
-Hello world is a time honoered tradation in computer programming, involving printing the lines "Hello World" as the first step when learning a new programming language. This allows for the programmer to quickly learn important facts about the syntax of the language, such that the rest of there learning journey is easier and faster 
+Whenever I introduce someone to the wonders of version control with git and github, I like to go through examples and show them how to go about doing things. This often leads to me to creating (and then deleting) a repo. To avoid this process I am creating this repo for the explicit purpose of teaching people how to use git and github.
